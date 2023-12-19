@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file trong main
+=======
+file trong hotadd
+>>>>>>> hotadd
